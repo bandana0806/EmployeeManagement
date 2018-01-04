@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandanaPractice", "BandanaPractice\BandanaPractice.csproj", "{16DA0880-E4EB-4FB0-9E77-4EC633CD6F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandanaPractice.Core", "BandanaPractice.Core\BandanaPractice.Core.csproj", "{E24D6841-F981-49FE-8B32-8D94F4DFC94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandanaPractice.Contract", "BandanaPractice.Contract\BandanaPractice.Contract.csproj", "{6127C816-648A-4057-8ED7-A60423290210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandanaPracticeDBManager", "BandanaPracticeDBManager\BandanaPracticeDBManager.csproj", "{D17737D9-92B0-42C1-812B-B07A10A3B788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandanaPractice.Model", "BandanaPractice.Model\BandanaPractice.Model.csproj", "{8E940A6E-275F-4781-990E-B45C0805D67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DA0880-E4EB-4FB0-9E77-4EC633CD6F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DA0880-E4EB-4FB0-9E77-4EC633CD6F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DA0880-E4EB-4FB0-9E77-4EC633CD6F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DA0880-E4EB-4FB0-9E77-4EC633CD6F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24D6841-F981-49FE-8B32-8D94F4DFC94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24D6841-F981-49FE-8B32-8D94F4DFC94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24D6841-F981-49FE-8B32-8D94F4DFC94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24D6841-F981-49FE-8B32-8D94F4DFC94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6127C816-648A-4057-8ED7-A60423290210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6127C816-648A-4057-8ED7-A60423290210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6127C816-648A-4057-8ED7-A60423290210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6127C816-648A-4057-8ED7-A60423290210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17737D9-92B0-42C1-812B-B07A10A3B788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17737D9-92B0-42C1-812B-B07A10A3B788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17737D9-92B0-42C1-812B-B07A10A3B788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17737D9-92B0-42C1-812B-B07A10A3B788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E940A6E-275F-4781-990E-B45C0805D67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E940A6E-275F-4781-990E-B45C0805D67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E940A6E-275F-4781-990E-B45C0805D67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E940A6E-275F-4781-990E-B45C0805D67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA55D6D1-5845-4C4B-A706-D326F7F7CA36}
+	EndGlobalSection
+EndGlobal
